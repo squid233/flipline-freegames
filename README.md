@@ -1,2 +1,3 @@
 # flipline-freegames
-Flipline's free games
+Flipline Studios's free games archives. Feel free to download them.  
+Origin: http://www.flipline.com/freegames.html
